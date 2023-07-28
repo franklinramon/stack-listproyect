@@ -41,15 +41,15 @@ void pop fcn(pointertonext *&);
       data entry register x.string a 
     if(file exists){
 # *fwrite(&x, sizeof(register), file size,file)*
-  **push(data)
+  **push(data)**
     }
-N++
+n++
 fclose(file)
 )
-**pop(structure)
-file = fopen("name.txt", "r")
-# while (*fread(&x, sizeof(register), 1,file)*) {
-print data
+**pop(data)**
+*file = fopen("name.txt", "r")*
+# while (*fread(&x, sizeof(register), 1,file)*){
+    print data
     }
 *fclose(file)*
 Return 0
