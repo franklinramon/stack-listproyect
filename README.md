@@ -2,7 +2,7 @@
 ##my final project of  algorithm class.
 **Objective: Develop and algorythm of a program that implements two data strcutures in a file that writes a file and reads that same file to display the data in the main console after the execution of the program its done**
 
-`#librarys
+#librarys
 
 #*struct node type*{
     strings a , b , … , n
@@ -44,5 +44,5 @@ print data
     }
 *fclose(file)*
 Return 0
-}`
+}
 *end of program*
