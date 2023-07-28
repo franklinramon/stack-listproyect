@@ -1,6 +1,14 @@
 # stack-listproyect
-##my final project of  algorithm class.
+# my final project of  algorithm class
 **Objective: Develop and algorythm of a program that implements two data strcutures in a file that writes a file and reads that same file to display the data in the main console after the execution of the program its done**
+
+#simple steps of this algorythm
+1. Create two data structures Stack and  Simple List
+2. Define each function Stack() and List()
+3. User Enters Data
+4. Call functions Stack() or List in Main()
+5. Print Data
+
 
 # librarys
 
