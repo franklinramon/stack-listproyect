@@ -40,7 +40,7 @@ void pop fcn(pointertonext *&);
       print data ask
       data entry register x.string a 
     if(file exists){
-# *fwrite(&x, sizeof(register), file size,file)*
+# *fwrite(&x, sizeof(register), file size,file)*{
   **push(data)**
     }
 n++
