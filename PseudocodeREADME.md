@@ -50,8 +50,6 @@ fclose(file)
 *file = fopen("name.txt", "r")*
 # while (*fread(&x, sizeof(register), 1,file)*){
     print data
-    }
-*fclose(file)*
-Return 0
+    *fclose(file)*
 }
 *end of program*
