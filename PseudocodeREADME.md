@@ -41,7 +41,7 @@ void pop fcn(pointertonext *&);
       data entry register x.string a 
     if(file exists){
 # *fwrite(&x, sizeof(register), file size,file)*{
-  **push(data)**
+      **push(data)**
     }
 n++
 fclose(file)
