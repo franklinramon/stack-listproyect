@@ -6,8 +6,9 @@
 1. Create two data structures Stack and  Simple List
 2. Define each function Stack() and List()
 3. User Enters Data
-4. Call functions Stack() or List in Main()
+4. Call functions Stack() or List() in Main()
 5. Print Data
+6. Exit Program
 
 
 # librarys
